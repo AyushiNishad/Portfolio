@@ -103,7 +103,7 @@ function App() {
               <p className="lead">I'm Ayushi Nishad, a final-year B.Tech student with a growing foundation in programming, frontend development, Artificial Intelligence and problem-solving.</p>
               <div className="hero-buttons">
                 <button className="btn primary" onClick={()=>go("projects")}>Explore my work <ArrowUpRight size={18}/></button>
-                <a className="btn ghost" href="/Ayushi_Nishad_Resume.pdf" download>Resume <Download size={17}/></a>
+                <a className="btn ghost" href="/Portfolio/Ayushi_Nishad_Resume.pdf" download>Resume <Download size={17}/></a>
               </div>
               <div className="hero-socials">
                 <a href={links.linkedin} target="_blank" rel="noreferrer"><Linkedin/> LinkedIn</a>
