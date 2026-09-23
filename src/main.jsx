@@ -25,17 +25,17 @@ const skills = [
 ];
 
 const certificates = [
-  ["Bharatiya Antariksh Hackathon 2026", "ISRO", "Certificate of participation and successful idea submission.", "/assets/certificates/certificate-01.png"],
-  ["Codefuse 2025", "GFG Campus Body AIT", "Certificate of participation in the Codefuse MCQ round.", "/assets/certificates/certificate-02.png"],
-  ["Pragati: Path to Future", "Infosys", "Certificate / participation recognition.", "/assets/certificates/certificate-03.png"],
-  ["Internshala Student Partner", "Internshala", "Appointment and participation recognition for the ISP program.", "/assets/certificates/certificate-04.png"],
-  ["100K Milestone Honor", "CampusCrew", "Recognition for contributing to the CampusCrew community.", "/assets/certificates/certificate-05.png"],
-  ["SWAMLCS 24 & TechNova National Quiz Challenge", "Allenhouse Institute of Technology / SVECW", "Certificates of participation shown on this page.", "/assets/certificates/certificate-06.png"],
-  ["NextGen AI Hackathon", "AI Academia", "Certificate of participation.", "/assets/certificates/certificate-07.png"],
-  ["MongoDB Skill Badge", "MongoDB", "MongoDB skill badge achievement.", "/assets/certificates/certificate-08.png"],
-  ["AI Agents for Beginners", "Simplilearn SkillUp", "Certificate of completion for the online course.", "/assets/certificates/certificate-09.png"],
-  ["Python Programming Internship", "Intern Infobyte", "Certificate for successfully completing the one-month internship.", "/assets/certificates/certificate-10.png"],
-  ["Cyber Security and Ethical Hacking Internship Program", "Edureka", "Certificate of attendance for the demo session.", "/assets/certificates/certificate-11.png"]
+  ["Bharatiya Antariksh Hackathon 2026", "ISRO", "Certificate of participation and successful idea submission.", "/Portfolio/assets/certificates/certificate-01.png"],
+  ["Codefuse 2025", "GFG Campus Body AIT", "Certificate of participation in the Codefuse MCQ round.", "/Portfolio/assets/certificates/certificate-02.png"],
+  ["Pragati: Path to Future", "Infosys", "Certificate / participation recognition.", "/Portfolio/assets/certificates/certificate-03.png"],
+  ["Internshala Student Partner", "Internshala", "Appointment and participation recognition for the ISP program.", "/Portfolio/assets/certificates/certificate-04.png"],
+  ["100K Milestone Honor", "CampusCrew", "Recognition for contributing to the CampusCrew community.", "/Portfolio/assets/certificates/certificate-05.png"],
+  ["SWAMLCS 24 & TechNova National Quiz Challenge", "Allenhouse Institute of Technology / SVECW", "Certificates of participation shown on this page.", "/Portfolio/assets/certificates/certificate-06.png"],
+  ["NextGen AI Hackathon", "AI Academia", "Certificate of participation.", "/Portfolio/assets/certificates/certificate-07.png"],
+  ["MongoDB Skill Badge", "MongoDB", "MongoDB skill badge achievement.", "/Portfolio/assets/certificates/certificate-08.png"],
+  ["AI Agents for Beginners", "Simplilearn SkillUp", "Certificate of completion for the online course.", "/Portfolio/assets/certificates/certificate-09.png"],
+  ["Python Programming Internship", "Intern Infobyte", "Certificate for successfully completing the one-month internship.", "/Portfolio/assets/certificates/certificate-10.png"],
+  ["Cyber Security and Ethical Hacking Internship Program", "Edureka", "Certificate of attendance for the demo session.", "/Portfolio/assets/certificates/certificate-11.png"]
 ];
 
 function App() {
@@ -114,7 +114,7 @@ function App() {
               </div>
             </div>
             <div className="hero-visual reveal">
-              <div className="portrait-ring"><div className="portrait-card"><img src="/assets/ayushi-profile.png" alt="Ayushi Nishad"/></div></div>
+              <div className="portrait-ring"><div className="portrait-card"><img src="/Portfolio/assets/ayushi-profile.png" alt="Ayushi Nishad"/></div></div>
               <div className="float-card fc1"><BrainCircuit/><span><b>AI & ML</b><small>Building & learning</small></span></div>
               <div className="float-card fc2"><Code2/><span><b>50+ Days</b><small>Consistent coding</small></span></div>
               <div className="scroll-hint"><ChevronDown size={16}/> Scroll to explore</div>
@@ -222,7 +222,7 @@ function App() {
                   <span>ByteBattle</span><span>Codefuse</span><span>Next Gen AI Hackathon</span><span>Technova National Quiz</span>
                 </div>
               </div>
-              <div className="badge-frame reveal"><img src="/assets/50-days-badge.png" alt="50 Days coding badge"/></div>
+              <div className="badge-frame reveal"><img src="/Portfolio/assets/50-days-badge.png" alt="50 Days coding badge"/></div>
             </div>
             <div className="section-head compact"><p className="mini">CERTIFICATIONS & TRAINING</p><h3>Learning beyond the classroom.</h3></div>
             <div className="cert-carousel" aria-label="Certifications carousel">
