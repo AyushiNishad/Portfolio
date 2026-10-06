@@ -35,7 +35,9 @@ const certificates = [
   ["MongoDB Skill Badge", "MongoDB", "MongoDB skill badge achievement.", "/Portfolio/assets/certificates/certificate-08.png"],
   ["AI Agents for Beginners", "Simplilearn SkillUp", "Certificate of completion for the online course.", "/Portfolio/assets/certificates/certificate-09.png"],
   ["Python Programming Internship", "Intern Infobyte", "Certificate for successfully completing the one-month internship.", "/Portfolio/assets/certificates/certificate-10.png"],
-  ["Cyber Security and Ethical Hacking Internship Program", "Edureka", "Certificate of attendance for the demo session.", "/Portfolio/assets/certificates/certificate-11.png"]
+  ["Cyber Security and Ethical Hacking Internship Program", "Edureka", "Certificate of attendance for the demo session.", "/Portfolio/assets/certificates/certificate-11.png"],
+  ["Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate", "Oracle University", "Certificate of recognition for achieving the Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate certification.", "/Portfolio/assets/certificates/certificate-12.png"],
+  ["Oracle Cloud Infrastructure AI Foundations Associate Badge", "Oracle", "Oracle Certified Foundations Associate badge issued for Oracle Cloud Infrastructure AI Foundations.", "/Portfolio/assets/certificates/certificate-13.png"]
 ];
 
 function App() {
